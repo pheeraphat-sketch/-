@@ -1,0 +1,63 @@
+[
+    {
+        "course_code": "CC31305",
+        "course_name": "ปัญญาประดิษฐ์",
+        "section": "01",
+        "instructor": "ดร.กฤตชัย",
+        "schedule": "ศ.13.00-17.00",
+        "location": "EN1304B (สามพร้าว)",
+        "day": "ศุกร์",
+        "time_period": "บ่าย"
+    },
+    {
+        "course_code": "CC31403",
+        "course_name": "การเรียนรู้ของเครื่องจักรกล",
+        "section": "01",
+        "instructor": "รศ.ดร.กฤษณพงศ์",
+        "schedule": "ศ.8.00-12.00",
+        "location": "EN1304B (สามพร้าว)",
+        "day": "ศุกร์",
+        "time_period": "เช้า"
+    },
+    {
+        "course_code": "CC41301",
+        "course_name": "การเตรียมความพร้อมทักษะการบูรณาการการพัฒนาระบบ",
+        "section": "01",
+        "instructor": "ดร.กฤตชัย",
+        "schedule": "อัง.9.00-12.00",
+        "location": "EN1504B (สามพร้าว)",
+        "day": "อังคาร",
+        "time_period": "เช้า"
+    },
+    
+    {
+        "course_code": "CC21301",
+        "course_name": "การเขียนโปรแกรมแอพพลิเคชันบนเว็บ",
+        "section": "01",
+        "instructor": "อ.นิรันดร",
+        "schedule": "พฤ.8.00-12.00",
+        "location": "EN1304B (สามพร้าว)",
+        "day": "พฤหัสบดี",
+        "time_period": "เช้า"
+    },
+    {
+        "course_code": "CC25302",
+        "course_name": "การออกแบบวงจรย่านความถี่วิทยุและไมโครเวฟ",
+        "section": "01",
+        "instructor": "ผศ.ดร.ระวี",
+        "schedule": "พฤ.13.00-17.00",
+        "location": "EN1304A (สามพร้าว)",
+        "day": "พฤหัสบดี",
+        "time_period": "บ่าย"
+    },
+    {
+        "course_code": "CC25401",
+        "course_name": "ระบบการสื่อสารและเครือข่ายไร้สาย",
+        "section": "01",
+        "instructor": "ผศ.ดร.ระวี",
+        "schedule": "จ.13.00-16.00",
+        "location": "EN1504B (สามพร้าว)",
+        "day": "จันทร์",
+        "time_period": "บ่าย"
+    }
+]
